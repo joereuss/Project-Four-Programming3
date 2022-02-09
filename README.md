@@ -1,5 +1,9 @@
 # Project-Four-Programming3
-CS400 Project Four Proposal
+This project was completed with my classmates: Jiaqi He, Connor Kolb, Adam Gerkhardt, Owen Graham, Nicole Bennett, Lillian Peralta, and Liam Jogal
+
+Not all classmates files are included since all of us were in groups of 2 and wrote the same portion of the project, however, those included are cited at start of each file.
+
+# CS400 Project Four Proposal
 
 TEAM: KA TEAM FLIPGRID: http://flipgrid.com/cs400sid1
 
