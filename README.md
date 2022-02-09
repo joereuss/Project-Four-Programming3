@@ -1,7 +1,10 @@
 # Project-Four-Programming3
 CS400 Project Four Proposal
+
 TEAM: KA TEAM FLIPGRID: http://flipgrid.com/cs400sid1
+
 TA: Sid TA EMAIL: smohan25@wisc.edu
+
 TEAM EMAILS: 1. ljogal@wisc.edu 2. nbennett3@wisc.edu 3. cwkolb@wisc.edu 4. gerkhardt@wisc.edu 5. lperalta@wisc.edu 6. jrreuss@wisc.edu 7. he279@wisc.edu 8. ohgraham@wisc.edu
 
 Project Title: Parking at UW-Madison
@@ -56,36 +59,3 @@ testAddLot() - ensures addLot() method in backend code works properly
 testRemoveLot() - ensures removeLot() method in backend code works properly
 testGetLot() - ensures getLot() method in backend code works properly
 testSort() - ensures sort() and sortedPotLots() method in backend code works properly
-
-Additional Responsibilities and Notes:
-
-Schedule:
-
-Date	Role	Deliverables
-11/24	Data Wranglers	.csv file with the appropriate information (parking.csv)
-Back End Developers	The names/details of methods to be implemented, along with the constructor for the object to be stored into Hashtable.
-Front End Developers	A template of the website with design elements completed.
-Test Engineers	n/a
-12/01	Data Wranglers	Object utilizing the .csv file to be created (ParkingLot.java)
-Back End Developers	Rough draft of Java class titled ParkingBackEnd.java
-Front End Developers	A working search bar and button.
-Test Engineers	n/a
-12/08	Data Wranglers	Fix any issues in either previous files
-Back End Developers	Fix any issues or preferences for ParkingBackEnd.java
-Front End Developers	Fully functional website compatible with backend implementation and the data file compiled by the Data Wranglers.
-Test Engineers	testAddLot()
-testRemoveLot()
-testGetLot()
-testSort()
-Flipgrid video
-Signatures:
-
-Joseph Reuss - 11/17/20
-Owen Graham - 2020-11-17
-Nicole Bennett - 11/17/2020
-Adam Gerkhardt - 11/17/2020
-Liam Jogal - 11/17/2020
-Lillian peralta - Nov 17 2020
-Jiaqi He - 11/17/2020
-Connor Kolb - 11/17/2020
-End of Proposal
